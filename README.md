@@ -1,7 +1,5 @@
+#  Layoffs Data Analysis Project
 ```markdown
-# Layoffs Data Analysis Project
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive SQL-based analysis of global workforce reductions, featuring data cleaning, trend analysis, and corporate layoff rankings.
 
