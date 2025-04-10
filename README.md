@@ -118,5 +118,5 @@ LIMIT 3;
 Distributed under MIT License. See `LICENSE` for details.
 
 ## 📧 Contact
-Abdelrahman - [abdelrahmanalgamil@gmail.com]
-LinkedIn - [abdelrahmanalgamil@gmail.com](https://www.linkedin.com/in/abdelrahman-said-mohamed-96b832234/)]
+Abdelrahman Said - [abdelrahmanalgamil@gmail.com]
+LinkedIn - [(https://www.linkedin.com/in/abdelrahman-said-mohamed-96b832234/)]
